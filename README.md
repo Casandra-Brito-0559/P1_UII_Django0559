@@ -14,3 +14,4 @@ Configuraciones básicas para trabajar con frameworb de Django
 - 11 creando el proyecto --> django-admin startproject web_libreria_proy .
 - 12 realizar migracion del proyecto --> python manage.py migrate
 - 13 ejecutar servidor --> python manage.py runserver
+- Mi trabajo en http://127.0.0.1:8000/
