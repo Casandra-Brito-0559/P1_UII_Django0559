@@ -15,3 +15,13 @@ Configuraciones básicas para trabajar con frameworb de Django
 - 12 realizar migracion del proyecto --> python manage.py migrate
 - 13 ejecutar servidor --> python manage.py runserver
 - Mi trabajo en http://127.0.0.1:8000/
+- ![img](https://github.com/user-attachments/assets/ceb350ac-4667-43bc-9ee2-fc018979e41b)
+- ![Img1](https://github.com/user-attachments/assets/d11a3fc4-b530-4270-9838-9a935ac1fb64)
+- ![img2](https://github.com/user-attachments/assets/0754c0e1-7925-44cb-8c04-417481d98f13)
+- ![img3](https://github.com/user-attachments/assets/e1d9e21f-5216-41bc-b74c-ed0543b69005)
+- ![img4](https://github.com/user-attachments/assets/e05baf77-e03d-4752-ab99-18a70f47b53b)
+
+
+
+
+
