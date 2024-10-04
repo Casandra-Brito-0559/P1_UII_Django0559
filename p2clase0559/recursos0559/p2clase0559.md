@@ -1,0 +1,12 @@
+- Crear aplicaciones casclase_app
+- comando --> python manage.py startapp casclase_app
+- creamos el archivo urls.py en casclase0559
+- ![alt text](img.jpg)
+- En setting.py p2clase0559
+- ![alt text](img1.jpg)
+- en urls.py casclase_app
+- ![alt text](img2.jpg)
+- en views.py en casclase_app
+- ![alt text](img3.jpg)
+- en urls.py casclase_app
+- ![alt text](img4.jpg)
